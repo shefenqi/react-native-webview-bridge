@@ -1,3 +1,7 @@
+# Temperary fixed the bug of ios8. Wait for the next update version of origin #
+# Temperary fixed the bug of ios8. Wait for the next update version of origin #
+# Temperary fixed the bug of ios8. Wait for the next update version of origin #
+
 ## Please take a look at this [issue](https://github.com/alinz/react-native-webview-bridge/issues/109) first
 
 # React Native WebView Javascript Bridge
@@ -140,7 +144,7 @@ const injectScript = `
                           WebViewBridge.send("got the message inside webview");
                         }
                       };
-                
+
                       WebViewBridge.send("hello from webview");
                     }
                   }());
@@ -159,7 +163,7 @@ var Sample2 = React.createClass({
         break;
     }
   },
-  
+
   render() {
     return (
       <WebViewBridge

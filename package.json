@@ -1,7 +1,7 @@
 {
-  "name": "react-native-webview-bridge",
-  "version": "0.33.0",
-  "description": "React Native WebView Javascript Bridge",
+  "name": "react-native-webview-bridge-temp",
+  "version": "0.33.1",
+  "description": "Temperary fixed the bug of ios8. Wait for the next update version of origin",
   "main": "webview-bridge",
   "directories": {
     "example": "example",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/alinz/react-native-webview-bridge/issues"
   },
-  "homepage": "https://github.com/alinz/react-native-webview-bridge",
+  "homepage": "https://github.com/shefenqi/react-native-webview-bridge",
   "dependencies": {
     "invariant": "2.2.0",
     "keymirror": "0.1.1"
